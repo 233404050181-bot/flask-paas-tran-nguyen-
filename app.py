@@ -33,7 +33,7 @@ def home():
 
 <body>
 
-<h1>Ung dung Flask tren PaaS</h1>
+<h1>Ung dung Flask tren PaaS - phien ban 2!</h1>
 
 <div class="box">
 
